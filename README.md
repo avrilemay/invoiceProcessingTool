@@ -3,6 +3,8 @@
 ### Description
 This project is an invoice processing tool that automates the extraction of important information from scanned or digital invoices. The tool uses OCR (Optical Character Recognition) and various Python libraries to identify, extract, and validate the text within invoices. Additionally, it offers translation capabilities and provides a user-friendly interface to correct and confirm the extracted data.
 
+This is a group project developed by Avrile Floro, Aude Hennino, and Maxime Bronny.
+
 ### Features
 - **OCR Integration:** Uses Tesseract for text recognition in images.
 - **Data Extraction:** Automatically extracts key information such as invoice number, date, total amount, and line items.
@@ -19,7 +21,6 @@ This project is an invoice processing tool that automates the extraction of impo
 - **`rapidAPI.py`:** Integrates with external APIs for additional functionality.
 - **`tesseract.py`:** Handles OCR processing using Tesseract.
 - **`UI.py`:** Provides the graphical user interface for user interaction.
-
 
 ### Usage
 1. **Upload an Invoice:**
@@ -44,5 +45,7 @@ This project is an invoice processing tool that automates the extraction of impo
 - DeepL API
 - OpenAI API
 
-
-
+### Authors
+- Avrile Floro
+- Aude Hennino
+- Maxime Bronny
